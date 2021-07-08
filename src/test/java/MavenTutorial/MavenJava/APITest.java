@@ -17,7 +17,10 @@ public class APITest {
 	@Test
 	public void DeleteTwitter()
 	{
-		System.out.println("Delete Twitter");
+		System.out.println("Delete Twitter 1");
+		System.out.println("Delete Twitter 2");
+		System.out.println("Delete Twitter 3");
+		System.out.println("Delete Twitter 4");
 	}
 
 }
